@@ -20,3 +20,5 @@
 
 
 //= require bootstrap/modal
+//= require bootstrap.min
+//= require camera
