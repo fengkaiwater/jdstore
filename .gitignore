@@ -25,5 +25,5 @@ public/uploads
 # Ignore application configuration
 /config/application.yml
 
-/conifg/secrets.yml
+/config/secrets.yml
 /config/initializers/carrierwave.rb
